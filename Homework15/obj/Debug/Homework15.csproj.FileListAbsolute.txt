@@ -1,0 +1,8 @@
+C:\Skillbox\MyHomeworks\Homework15\Homework15\bin\Debug\Homework15.exe.config
+C:\Skillbox\MyHomeworks\Homework15\Homework15\bin\Debug\Homework15.exe
+C:\Skillbox\MyHomeworks\Homework15\Homework15\bin\Debug\Homework15.pdb
+C:\Skillbox\MyHomeworks\Homework15\Homework15\obj\Debug\Homework15.csproj.AssemblyReference.cache
+C:\Skillbox\MyHomeworks\Homework15\Homework15\obj\Debug\Homework15.csproj.SuggestedBindingRedirects.cache
+C:\Skillbox\MyHomeworks\Homework15\Homework15\obj\Debug\Homework15.csproj.CoreCompileInputs.cache
+C:\Skillbox\MyHomeworks\Homework15\Homework15\obj\Debug\Homework15.exe
+C:\Skillbox\MyHomeworks\Homework15\Homework15\obj\Debug\Homework15.pdb
