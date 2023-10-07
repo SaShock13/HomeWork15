@@ -17,6 +17,7 @@ namespace Homework15
         static Random rnd = new Random();
         static object lockObj = new object();
         static int counter = 0;
+
         static void Main(string[] args)
         {
             //ParameterizedThreadStart pts = new ParameterizedThreadStart(ShowMessage);
@@ -31,6 +32,7 @@ namespace Homework15
             //ShowMessage(250);
 
             ShowMessageAsync(100);
+
             Task<int> task = Task.Run(() => CalcFibAsync(20));
             ShowMessage(200);
             Console.WriteLine($"Main закончила работу в потоке {Thread.CurrentThread.ManagedThreadId}");
